@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Jane",
+        "family": "Doe",
+        "student_id": "S1234",
+        "grades": {
+            "Math": 16,
+            "Science": 17
+        },
+        "average_grade": 16.5,
+        "staus": null,
+        "lectures": [
+            "Math",
+            "Science"
+        ]
+    },
+    {
+        "name": "Mike",
+        "family": "Smith",
+        "student_id": "S5678",
+        "grades": {
+            "Math": 18,
+            "History": 19
+        },
+        "average_grade": 18.5,
+        "staus": null,
+        "lectures": [
+            "Math",
+            "History"
+        ]
+    }
+]
